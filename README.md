@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **anthonyrende/anthonyrende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/anthonyrende_" target="blank"><img src="https://img.shields.io/twitter/follow/anthonyrende_?logo=twitter&style=for-the-badge" alt="anthonyrende_" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust**, **Langchain**, **Solana Programming Model**, 
 
 - 👨‍💻 All of my projects are available at [anthonyrende.com](anthonyrende.com)
 
