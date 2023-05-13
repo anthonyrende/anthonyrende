@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hi 👋 </h1>
-<h3 align="left">My name is Anthony, <br/> <br/> I'm a full stack developer passionate about the implications of Web3, security, and blockchain tech... </h3>
+<h3 align="left">I'm a full stack developer passionate about the implications of Web3, security, and blockchain tech... </h3>
 
 
 
