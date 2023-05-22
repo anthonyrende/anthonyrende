@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left">Hi 👋 </h1>
-<h3 align="left">I'm a full stack developer passionate about the implications of Web3, security, and blockchain tech... </h3>
+
+<p align="left">Full stack developer passionate about the world of Web3, at the intersection of security, and blockchain tech... </p>
 
 
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [anthonyrende.com](anthonyrende.com)
 
-- 💬 Let's talk about **nextjs, the edge, state management, react-server components**
+- 💬 Let's talk about **the edge, state management, react-server components**
 
 - 📫 How to reach me **rende718@gmail.com**
 
