@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ----------
 
-- 🌱 I’m currently learning **Rust**, **Langchain**, **Solana Programming Model**, 
+- 🌱 I’m currently learning **Rust**, **Langchain**, **Solana Programming Model**
 
 - 👨‍💻 All of my projects are available at [anthonyrende.com](anthonyrende.com)
 
-- 💬 Let's talk about **the edge, state management, react-server components**
+<!--- 💬 Let's talk about **the edge, state management, react-server components** -->
 
 - 📫 How to reach me **rende718@gmail.com**
 
