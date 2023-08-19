@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Rust**, **Langchain**, **Solana Programming Model**
 
-- 👨‍💻 All of my projects are available at [anthonyrende.com](anthonyrende.com)
+- 👨‍💻 All of my projects are available at [https://anthonyrende.com](https://anthonyrende.com)
 
 <!--- 💬 Let's talk about **the edge, state management, react-server components** -->
 
