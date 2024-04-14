@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ----------
 
-- 🌱 I’m currently learning **Rust**, **Langchain**, **Solana Programming Model**
+- 🌱 I’m currently diving deeper into **Golang** && **Solana Programming Model**
 
 - 👨‍💻 All of my projects are available at [https://anthonyrende.com](https://anthonyrende.com)
 
