@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 ----------
 
-- 🌱 I’m currently diving deeper into **Golang** && **Solana Programming Model**
+- 🌱 I’m currently diving deeper into **Rust** && **Solana Programming Model**
 
 - 👨‍💻 All of my projects are available at [https://anthonyrende.com](https://anthonyrende.com)
 
 <!--- 💬 Let's talk about **the edge, state management, react-server components** -->
 
-- 📫 How to reach me **rende718@gmail.com**
+- 📫 How to reach me **anthon@rende.tech**
 
 ----------
 
